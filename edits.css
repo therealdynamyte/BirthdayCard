@@ -71,7 +71,7 @@ span {
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%; 
-    animation: animate 3s linear;
+    animation: animate 10s linear;
 }
 
 @keyframes animate {
